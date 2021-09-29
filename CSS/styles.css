@@ -27,3 +27,9 @@ h2 {
 table {
   color: black;
 }
+td {
+  color: red;
+}
+th {
+  color: gray;
+}
